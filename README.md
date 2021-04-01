@@ -20,3 +20,4 @@ Using the speedtest data from OOkla we can determine whether counties have acces
 We implemented classification models like linear regression and support vector machines to make our predictions. We used k-fold Cross Validation to choose the best predictive model. Finally, we will predicted broadband access in counties where internet speed data is not available.
 
 
+![](internet-speed.png)
